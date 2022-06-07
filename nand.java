@@ -32,4 +32,4 @@ public class nand {
 		int val = (output) ? 1:0;    //converting the boolean value to int to be shown
 		System.out.println("the output is nand(x,y) is: "+ val);
 	}
-}
+}//lmao this is the new comment; reflect this
